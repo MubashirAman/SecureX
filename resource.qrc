@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>RetroByte.ttf</file>
+    </qresource>
+</RCC>
